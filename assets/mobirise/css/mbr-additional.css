@@ -12700,31 +12700,6 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-tuHM5sIgmd {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #55b4d4;
-}
-.cid-tuHM5sIgmd .line {
-  background-color: #55b4d4;
-  color: #55b4d4;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-tuHM5sIgmd .section-text {
-  padding: 2rem 0;
-  text-align: left;
-  color: #ffffff;
-}
-.cid-tuHM5sIgmd .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-tuHM5sIgmd .inner-container {
-    width: 100% !important;
-  }
-}
 .cid-tgEHA8CiMz {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -12874,6 +12849,80 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-tflBWLXvqK .mbr-text {
+  color: #465052;
+}
+.cid-tuHM5sIgmd {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #55b4d4;
+}
+.cid-tuHM5sIgmd .line {
+  background-color: #55b4d4;
+  color: #55b4d4;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-tuHM5sIgmd .section-text {
+  padding: 2rem 0;
+  text-align: left;
+  color: #ffffff;
+}
+.cid-tuHM5sIgmd .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-tuHM5sIgmd .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-tuJ4Ytnag7 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-tuJ4Ytnag7 .mbr-text,
+.cid-tuJ4Ytnag7 blockquote {
+  color: #767676;
+}
+.cid-tuJ4Ytnag7 .mbr-text {
+  color: #465052;
+}
+.cid-tuJ50Av52M {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #82786e;
+}
+.cid-tuJ50Av52M .line {
+  background-color: #82786e;
+  color: #82786e;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-tuJ50Av52M .section-text {
+  padding: 2rem 0;
+  text-align: left;
+  color: #ffffff;
+}
+.cid-tuJ50Av52M .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-tuJ50Av52M .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-tuJ51ICsyO {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-tuJ51ICsyO .mbr-text,
+.cid-tuJ51ICsyO blockquote {
+  color: #767676;
+}
+.cid-tuJ51ICsyO .mbr-text {
   color: #465052;
 }
 .cid-tflBWNFKCP {
